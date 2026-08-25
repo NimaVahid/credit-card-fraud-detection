@@ -697,7 +697,7 @@ project-01/
 
 Implementation status in this ZIP:
 
-- [ ] GitHub repository created and pushed
+- [x] GitHub repository created and pushed
 - [x] `requirements.txt` included
 - [x] Kaggle dataset link documented in README
 - [x] Real dataset excluded from Git
